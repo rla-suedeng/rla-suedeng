@@ -2,6 +2,15 @@
 
 I'm an undergurated student in <span style="color:#045FB4"> Korea Univ. CS&E </span>
 
+### Education 🎓
+
+Mar. 2022 – Present 		Computer Science and Engineering (Primary Major) 	Korea University, South Korea
+Psychology (Secondary Major)		
+
+Feb. 2024 – Aug. 2024 		Exchange Student, Computer Science			Technical University of Berlin, Germany
+
+
+
 Interested in Front-end
  
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=FFFFFF"/></a>
