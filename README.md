@@ -4,10 +4,9 @@ I'm an undergurated student in <span style="color:#045FB4"> Korea Univ. CS&E </s
 
 ### Education 🎓
 
-Mar. 2022 – Present 		Computer Science and Engineering (Primary Major) 	Korea University, South Korea
-Psychology (Secondary Major)		
+**B.Sc.** Computer Science and Engineering (Primary Major) Psychology (Secondary Major) 	Korea University, South Korea Mar. 2022 – Present 		
 
-Feb. 2024 – Aug. 2024 		Exchange Student, Computer Science			Technical University of Berlin, Germany
+Exchange Student, Computer Science			Technical University of Berlin, Germany,       Feb. 2024 – Aug. 2024 	
 
 
 
