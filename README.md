@@ -17,7 +17,7 @@ I'm an undergraduate student in <span style="color:#045FB4"> Korea Univ. CS&E </
 
 ### Interest 🤔
 
-Interested in **Vision**, **Deep Learning**, and **Front-End**
+Interested in **Visual Perception**, **Brain Encoding and Decoding**, **Deep Learning**, and **Front-End**
  
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=FFFFFF"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/C-848484?style=flat&logo=C&logoColor=A8B9CC"/></a>
