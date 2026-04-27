@@ -6,8 +6,8 @@
 I'm an undergraduate student in <span style="color:#045FB4"> Korea Univ. CS&E </span>
 
 ### Education 🎓
-- **Master Student (Integrated B.A./M.A. Program)** in Brain and Cognitive Science 
-  *Korea University, South Korea* | **Mar. 2026(Expected) - Present**
+- **Master Student** in Brain and Cognitive Science 
+  *Korea University, South Korea* | **Mar. 2026 - Present**
   
 - **Exchange Student** in Computer Science  
   *Technical University of Berlin, Germany* | **Feb. 2024 – Aug. 2024**
