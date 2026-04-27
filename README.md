@@ -25,7 +25,7 @@ Interested in **Visual Perception**, **Brain Encoding and Decoding**, **Deep Lea
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/C-848484?style=flat&logo=C&logoColor=A8B9CC"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/python-F2F5A9?style=flat&logo=Python&logoColor=3776AB"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/react-007396?style=flat&logo=React&logoColor=61DAFB"/></a>
-<a href="https://rla-suedeng.github.io/" target="_blank"><img src="(https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white))"/></a>
+<a href="https://rla-suedeng.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rla-suedeng&show_icons=true&theme=vue)
 
